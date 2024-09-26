@@ -24,7 +24,3 @@ We will be using the [Kaggle Consumer Churn Dataset](https://www.kaggle.com) for
 - Python (pandas, numpy, scikit-learn, etc.)
 - Jupyter Notebook/Google Colab
 - Machine Learning algorithms (e.g., logistic regression, random forest, etc.)
-
-## Conclusion
-This project aims to provide a robust solution to predict customer churn and help banks retain valuable customers while improving their marketing strategies and customer satisfaction.
-
